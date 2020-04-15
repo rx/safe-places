@@ -1,9 +1,10 @@
-{ "authority_name":  "Steve's Fake Testing Organization",
+{
+  "authority_name":  "Example Health Authority for Testing",
   "publish_date_utc": "1584924583",
-  "info_website": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+  "info_website": "https://raw.githack.com/rx/safe-places/demo/examples/portal.html",
   "concern_points":
-   [
-     { "time": 123, "latitude": 12.34, "longitude": 12.34},
-     { "time": 456, "latitude": 12.34, "longitude": 12.34}
-   ]
+  [
+    {"time":1586967343190,"longitude":-85.6003191703508,"latitude":44.75973621409328},
+    {"time":1586967719638,"longitude":-85.60042986558581,"latitude":44.76082671728998}
+  ]
 }
